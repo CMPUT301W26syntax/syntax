@@ -1,3 +1,1 @@
-# Yixing Li
-# yixing6
-# 1773529
+ccid: yixing6
